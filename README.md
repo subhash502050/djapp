@@ -1,0 +1,2 @@
+# djapp
+django app
